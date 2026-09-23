@@ -1,0 +1,6 @@
+{
+  "name": "Missão Recreio - Códigos e Finanças (4º Ano)",
+  "description": "Jogo educativo para alunos do 4º ano: codificação da informação (EF04CO04) e educação financeira com situações-problema e consumo consciente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
